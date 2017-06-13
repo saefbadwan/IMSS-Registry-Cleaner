@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\IMSSRegistryCleaner.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\IMSSRegistryCleaner.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\BetterListViewExpress-net20.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\BetterListViewExpress-net20.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\BetterListViewExpress-net20.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\DevComponents.DotNetBar2.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS_Registry_Cleaner.MainWindow.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS_Registry_Cleaner.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS_Registry_Cleaner.ScanComplete.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS_Registry_Cleaner.StartCleanning.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS_Registry_Cleaner.StartScanning.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS Registry Cleaner.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSSRegistryCleaner.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSSRegistryCleaner.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\bin\Release\IMSSRegistryCleaner.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\IMSS Registry Cleaner\obj\Release\IMSS Registry Cleaner.csprojResolveAssemblyReference.cache
